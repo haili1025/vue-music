@@ -1,4 +1,4 @@
-# vue-music 未完成项目
+# vue-music 
 
 > A Vue.js project
 
